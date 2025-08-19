@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center; 
+}
+
+form {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+}
